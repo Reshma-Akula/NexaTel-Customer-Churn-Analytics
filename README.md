@@ -44,6 +44,8 @@ Created a 5-page management dashboard covering:
 4. Network & Regional Analysis
 5. Campaigns & Revenue
 
+**Dataset:** The analysis was performed using NexaTel customer, subscription, billing, support, network, and campaign datasets. The raw and cleaned datasets are not included in this public repository. 
+
 ## Key Business Insights
 
 - Overall churn rate: 18.45%
